@@ -5,9 +5,13 @@
 import BillReminder from "@/components/mainPage";
 
 export default function Home() {
-  return
+  return(
+<main>
+< BillReminder/>
+
+</main>
+  )
     
-      < BillReminder/>
     
     
 }
